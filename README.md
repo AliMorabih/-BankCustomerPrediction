@@ -1,4 +1,4 @@
-# BankCustomerPrediction
+## Bank Customer Prediction Using Machine Learning
 
 This project involves building a machine learning model to predict whether a bank customer is likely to leave or stay with the bank. 
 The model is been trained with historical customer data, including their demographics, transactional behavior, and other relevant features like age, job, marital, education, housing, loan, contact...
